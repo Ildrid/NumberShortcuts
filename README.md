@@ -20,7 +20,7 @@ You can autorun the script on windows startup by plasing it in the [Startup fold
 ## Customization
 
 Edit the settings file to suit your needs. Simply write the link or path you want to open on the specified number.
-eks C:\Users\(User_Name)\Documents, D:\Programs\example.exe or https://www.facebook.com/
+eks C:\Users\(User_Name)\Documents, D:\Programs\example.exe or https://www.github.com/
 
 NB! When changes are made, you have to rerun the script
 
