@@ -1,7 +1,7 @@
 # NumberShortcuts
 
 NumberShortcuts is a [AutoHotkey](https://autohotkey.com/) script which gives you:
-- Shortcuts when you hold down the right mouse button and a number on your keyboard. 
+- Shortcuts when you hold down the right mouse button and press a number on your keyboard. 
 - Toggle the script with the right mouse button + Esc
 
 This is my first published script, so don't expect too much ;-)  
